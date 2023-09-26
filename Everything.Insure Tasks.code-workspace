@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"streetsidesoftware.code-spell-checker",
+			"waderyan.gitblame",
+			"donjayamanne.git-extension-pack",
+			"shaharkazaz.git-merger",
+			"znck.grammarly",
+			"qufiwefefwoyn.inline-sql-syntax",
+			"sensourceinc.vscode-sql-beautify",
+			"cmoog.sqlnotebook",
+			"ms-mssql.mssql",
+			"mtxr.sqltools",
+			"mtxr.sqltools-driver-mssql"
+		]
+	}
+}
